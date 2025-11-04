@@ -22,7 +22,12 @@
 
 /* MAIN start */
 /* Hero section */
-
+.hero {
+    background: #333;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
 /* About section */
 
 /* Contact section */
