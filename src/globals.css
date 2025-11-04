@@ -26,7 +26,11 @@
 /* About section */
 
 /* Contact section */
-
+.contact {
+    background: #333;
+    text-align: center;
+    color: #fff;
+}
 /* MAIN end */
 
 /* FOOTER start */
