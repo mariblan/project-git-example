@@ -29,7 +29,12 @@
     color: #fff;
 }
 /* About section */
-
+.about {
+    background: #333;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
 /* Contact section */
 
 /* MAIN end */
